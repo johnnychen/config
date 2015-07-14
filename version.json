@@ -1,4 +1,4 @@
 {
-    "version": "1.0.6",
-    "message": "最新版本为1.0.6, 安装最新版本命令： \"tnpm install @ali/fms\" "
+    "version": "1.0.7",
+    "message": "最新版本为1.0.7, 安装最新版本命令： \"tnpm install -g @ali/fms\" "
 }
